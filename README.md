@@ -128,21 +128,28 @@ A solução foi disponibilizada através de uma interface interativa desenvolvid
 ## 🏗️ Arquitetura do Projeto
 
 ```text
-Tech-Challenge-Obesity-Classification/
+APPOBESIDADE/
 │
 ├── data/
-├── notebooks/
-│   ├── analise_exploratoria.ipynb
-│   ├── treinamento_modelo.ipynb
+│   └── Obesity.csv
 │
 ├── models/
-│   └── obesity_classifier.pkl
+│   └── obesity_model.pkl
 │
-├── streamlit/
-│   ├── app.py
-│   └── requirements.txt
+├── notebooks/
+│   └── TrabalhoPosTechFase4.ipynb
 │
-└── README.md
+├── dashboard/
+│   ├── dashboard_obesidade.xlsx
+│   └── dashboard_obesidade_paralooker.xlsx
+│
+├── src/
+│   └── train_modelo.py
+│
+├── app.py
+├── requirements.txt
+├── README.md
+└── .gitignore
 ```
 
 ---
