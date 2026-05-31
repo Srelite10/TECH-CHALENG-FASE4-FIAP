@@ -180,7 +180,7 @@ A solução foi disponibilizada através de uma aplicação interativa desenvolv
 
 🔗 Link da Aplicação
 
-(Adicionar URL do Streamlit)
+((https://tech-chaleng-fase4-fiap-dzn2kcdkrv9fakotnbp2ph.streamlit.app/))
 
 ---
 
