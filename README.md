@@ -160,7 +160,7 @@ Principais análises:
 
 🔗 Link do Dashboard
 
-(Adicionar URL do Looker Studio)
+((https://datastudio.google.com/reporting/8cd6c142-1532-4e07-a91c-c282c6a237f3))
 
 ---
 
@@ -208,7 +208,6 @@ APPOBESIDADE/
 ├── app.py
 ├── requirements.txt
 ├── README.md
-└── .gitignore
 ```
 
 ---
